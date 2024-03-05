@@ -20,4 +20,5 @@ The developer documentation portal supports two documentation formats:
 - OpenAPI (also known as Swagger) definitions in JSON or YAML, rendered through the [ReDoc](https://github.com/redocly/redoc) API documentation renderer.
 
 You will need a TechPass and Github account. [Get started](get-started) today!
-![sample video](../assets/sample.mov)
+
+![sample video](../../assets/sample.mov)
