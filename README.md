@@ -21,4 +21,5 @@ The developer documentation portal supports two documentation formats:
 
 You will need a TechPass and Github account. [Get started](get-started) today!
 
-![sample video](../../assets/sample.mov)
+![sample video](assets/sample.mov)
+![GitHub organization repository access management screenshot](../assets/github_org_repo_access.png)
