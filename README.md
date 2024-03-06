@@ -31,3 +31,8 @@ You will need a TechPass and Github account. [Get started](get-started) today!
 ![sample video 10](assets/sample.mp4)
 ![sample video 11](../assets/sample.mp4)
 ![sample video 12](../../assets/sample.mp4)
+
+![sample video 20](/assets/sample.mp4 )
+![sample video 21](../assets/sample.mp4 ':include :type=video')
+![sample video 22](../../assets/sample.mp4 ': ':include :type=video')
+
