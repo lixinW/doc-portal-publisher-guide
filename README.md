@@ -23,6 +23,6 @@ You will need a TechPass and Github account. [Get started](get-started) today!
 
 ![sample video 1](assets/sample.mov)
 ![GitHub organization repository access management screenshot](../assets/github_org_repo_access.png)
-[sample video 00](assets/sample.mp4':include :type=video controls width=100%')
-[sample video 11](../assets/sample.mp4':include :type=video controls width=100%')
-[sample video 02](../../assets/sample.mp4':include :type=video controls width=100%')
+![sample video 00](assets/sample.mp4':include :type=video controls width=100%')
+![sample video 11](../assets/sample.mp4':include :type=video controls width=100%')
+![sample video 02](../../assets/sample.mp4':include :type=video controls width=100%')
