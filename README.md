@@ -21,5 +21,5 @@ The developer documentation portal supports two documentation formats:
 
 You will need a TechPass and Github account. [Get started](get-started) today!
 
-![sample video 1](sample.mp4':include :type=video controls width=100%')
+![sample video 1](sample.mp4 ':include :type=video controls width=100%')
 
