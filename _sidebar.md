@@ -14,6 +14,4 @@
 * [Maintenance](maintenance)
 * [Issues](issues)
 * [Showcase](showcase)
-* [User Guide](get-started)
-    * [Getting Started](advanced/accordion)
-    * [Configuration](advanced/sidebar)
+
